@@ -21,16 +21,16 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
+<a href="[https://linkedin.com/in/TU_USUARIO](https://www.linkedin.com/in/alvaro-escobar-martín-a3351b241/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://instagram.com/TU_USUARIO" target="_blank">
+  <a href="[https://instagram.com/TU_USUARIO](https://www.instagram.com/aalvarooescobar/)" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
-  <a href="https://tiktok.com/@TU_USUARIO" target="_blank">
+  <a href="[https://tiktok.com/@TU_USUARIO](https://www.tiktok.com/@elvaro_69)" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank" />
   </a>
-  <a href="https://facebook.com/TU_USUARIO" target="_blank">
+  <a href="[https://facebook.com/TU_USUARIO](https://www.facebook.com/profile.php?id=100072663426403)" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
   </a>
 </div>
