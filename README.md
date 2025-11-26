@@ -16,22 +16,22 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hola,%20Soy%20Dev!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Creativo%20%7C%20Amante%20del%20Código&descAlignY=51&descAlign=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hola,%20Soy%20Dev!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Creativo%20%7CBienvenido%20a%20mi%20mundo%20digital&descAlignY=60" />
 </div>
 
 <div align="center">
 
-<a href="[https://linkedin.com/in/TU_USUARIO](https://www.linkedin.com/in/alvaro-escobar-martín-a3351b241/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+<a href="https://www.linkedin.com/in/alvaro-escobar-martín-a3351b241/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="[https://instagram.com/TU_USUARIO](https://www.instagram.com/aalvarooescobar/)" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  <a href="https://www.instagram.com/aalvarooescobar/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="[https://tiktok.com/@TU_USUARIO](https://www.tiktok.com/@elvaro_69)" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank" />
+  <a href="https://www.tiktok.com/@elvaro_69" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
-  <a href="[https://facebook.com/TU_USUARIO](https://www.facebook.com/profile.php?id=100072663426403)" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
+  <a href="https://www.facebook.com/profile.php?id=100072663426403" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </div>
 
@@ -49,16 +49,57 @@ Here are some ideas to get you started:
 
 ### 📊 Mis Estadísticas en GitHub
 
+#### 🚦 Panel de Aprendizaje y Sistemas
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph"  />
+  <table>
+    <thead>
+      <tr>
+        <th align="center">Area</th>
+        <th align="center">Nivel</th>
+        <th align="center">Progreso</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Programación</td>
+        <td>Aprendiendo</td>
+        <td>
+          <img src="https://progress-bar.dev/85/?title=Python%20&width=180" /> <br>
+          <img src="https://progress-bar.dev/75/?title=JavaScript%20&width=180" /> <br>
+          <img src="https://progress-bar.dev/60/?title=Java%20&width=180" /> <br>
+          <img src="https://progress-bar.dev/50/?title=PHP%20&width=180" /> <br>
+          <!-- Logos agregados para C++ y Ruby -->
+          <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
+          <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+        </td>
+      </tr>
+      <tr>
+        <td>Sistemas Informáticos</td>
+        <td>Pro</td>
+        <td>
+          <img src="https://img.shields.io/badge/Linux-expert-brightgreen?style=for-the-badge&logo=linux" />
+          <img src="https://img.shields.io/badge/MacOS-intermediate-orange?style=for-the-badge&logo=apple" />
+          <img src="https://img.shields.io/badge/Windows-pro-blue?style=for-the-badge&logo=windows" />
+        </td>
+      </tr>
+      <tr>
+        <td>Control de Hardware</td>
+        <td>Intermedio</td>
+        <td>
+          <img src="https://progress-bar.dev/65/?title=Arduino%20&width=180" /> <br>
+          <img src="https://progress-bar.dev/50/?title=Raspberry%20Pi%20&width=180" /> <br>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 <hr/>
 
 ### 🎯 Objetivos y Metas
 
-> *"El código es poesía escrita por máquinas para humanos."*
+> *"El conocimiento es el verdadero poder."*
 
 - [ ] 🧠 **Dominar Inteligencia Artificial:** Aprender TensorFlow y PyTorch a profundidad.
 - [ ] 🌐 **Full Stack Master:** Crear una aplicación SaaS completa y desplegarla.
